@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 #this program takes two numbers as input parameters and returns the linear combination that sums to their greatest common divisor
 #math is based on the euclidian algorithm
 import math
