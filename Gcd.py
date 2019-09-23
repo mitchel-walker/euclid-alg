@@ -1,4 +1,6 @@
-#this program takes two integers from the user and prints the 
+#!/usr/bin/env python
+
+#this program takes two integers from the user and prints the greatest common divisor
 
 def gcd(a,b):
 	x = max(abs(a),abs(b))
