@@ -95,7 +95,7 @@ Throughout the recursive program, it was assumed that both a and b were positive
 cases are handled by performing the recursive function on the absolute value of the user-given integer. Also the larger number is always passed as a, and the smaller always passed as b. This is done
 so that the function doesn't need to handle any special cases, and we can manage the edge cases after m and n are calculated. 
 
-There are two key concepts that are important to know:
+There are a few key concepts that are important to mention:
 	
 	-The gdc of one or more negative numbers is positive
 	-The gdc of any number, n, and zero is n
